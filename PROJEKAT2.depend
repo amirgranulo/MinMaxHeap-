@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1643118154 source:c:\users\amir\desktop\pmf\iii semestar\strukture i algoritmi\projekat2\main.cpp
+	"Heap.h"
+	<iostream>
+
+1643188800 c:\users\amir\desktop\pmf\iii semestar\strukture i algoritmi\projekat2\heap.h
+	<iostream>
+	<vector>
+	"Heap.cpp"
+
+1643188808 source:c:\users\amir\desktop\pmf\iii semestar\strukture i algoritmi\projekat2\heap.cpp
+	"Heap.h"
+	<iostream>
+	<math.h>
+	<algorithm>
+
+1643188808 c:\users\amir\desktop\pmf\iii semestar\strukture i algoritmi\projekat2\heap.cpp
+	"Heap.h"
+	<iostream>
+	<math.h>
+	<algorithm>
+
